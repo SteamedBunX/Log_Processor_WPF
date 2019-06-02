@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log Processor", "Log Processor\Log Processor.csproj", "{FCDE710C-FB57-4B38-BF08-B7B068684CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log Processing Component", "Log Processing Component\Log Processing Component.csproj", "{AB2832F7-3645-40F2-9467-AF3FDA11E196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDE710C-FB57-4B38-BF08-B7B068684CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDE710C-FB57-4B38-BF08-B7B068684CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDE710C-FB57-4B38-BF08-B7B068684CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDE710C-FB57-4B38-BF08-B7B068684CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2832F7-3645-40F2-9467-AF3FDA11E196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2832F7-3645-40F2-9467-AF3FDA11E196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2832F7-3645-40F2-9467-AF3FDA11E196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2832F7-3645-40F2-9467-AF3FDA11E196}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38691091-0C13-4D86-963A-128D63F3AC39}
+	EndGlobalSection
+EndGlobal
